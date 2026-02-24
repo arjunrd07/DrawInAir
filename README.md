@@ -1,4 +1,4 @@
-# DrawInAir ✨
+#DrawInAir ✨
 
 DrawInAir is an innovative project that lets you sketch and interact with digital canvases using natural gestures in the air. It combines computer vision, machine learning, and intuitive design to create a seamless drawing experience without traditional input devices.
 
